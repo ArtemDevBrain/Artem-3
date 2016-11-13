@@ -1,0 +1,6 @@
+[submodule "hello-world-git"]
+	path = hello-world-git
+	url = https://github.com/HurYur/hello-world-git.git
+[submodule "decosweet"]
+	path = decosweet
+	url = https://github.com/HurYur/decosweet.git
